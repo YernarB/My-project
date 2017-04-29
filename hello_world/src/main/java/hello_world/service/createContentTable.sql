@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS content(
+   ROWID INTEGER PRIMARY KEY   AUTOINCREMENT,
+   contenttext           TEXT    NOT NULL
+  )
